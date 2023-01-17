@@ -5,4 +5,4 @@ b = 4
 # Assign 8 (int value) to 'c' variable;
 c = 8
 # Print the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin08';
-print('https://github.com/codeschool-2022A/variables_and_types#begin08')
+print((a*b)/c)
