@@ -5,6 +5,6 @@ b = 3
 # Assign 5 (int value) to 'c' variable;
 c = 5
 # Assign the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin06' to variable 'k';
-k = a-v+c
+k = a-b+c
 # # Print the variable 'k'.
 print(k)
