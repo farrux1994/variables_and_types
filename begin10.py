@@ -7,6 +7,6 @@ c = 2
 # Assign 8 (int value) to 'd' variable;
 d = 8
 # Assign the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin10' to variable 'k';
-k = 'https://github.com/codeschool-2022A/variables_and_types#begin10'
+k = 2*(a*b-c*d)
 # # Print the variable 'k'.
 print(k)
